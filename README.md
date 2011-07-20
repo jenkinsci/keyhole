@@ -14,11 +14,10 @@ Additions
 
  * Locate your latitude and longitude, e.g. via
    [Google Maps](http://maps.google.com)
- * Add a new Placemark XML segment for your name
-   and location
+ * Add a new Placemark XML segment for your name and location
  * Commit and push the updated KML document
- * Refresh the map (updates may not be immediately
-   visible due to Google Maps caching)
+ * Refresh the [map page](http://jenkinsci.github.com/keyhole/)
+   (please note that updates may not be immediately visible due to Google Maps caching)
 
 
 Example Placemark

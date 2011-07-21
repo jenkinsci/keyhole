@@ -51,5 +51,13 @@
         <coordinates>139.686141,35.612337</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Andrew Bayer</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>37.771419,-122.437214</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

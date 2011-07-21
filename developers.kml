@@ -11,5 +11,13 @@
         <coordinates>-73.421116,40.873221</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Ullrich Hafner</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>48.136881,11.628256</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

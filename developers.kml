@@ -19,5 +19,13 @@
         <coordinates>11.616180,48.137749</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Christoph Kutzinski</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>10.005355,53.566108</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

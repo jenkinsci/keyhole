@@ -20,6 +20,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Alan Harder (mindless)</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>37.342151,-122.04242</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Christoph Kutzinski</name>
       <Point>
         <extrude>1</extrude>

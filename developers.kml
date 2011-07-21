@@ -40,7 +40,7 @@
       <Point>
         <extrude>1</extrude>
         <altitudeMode>relativeToGround</altitudeMode>
-        <coordinates>35.612337,139.686141</coordinates>
+        <coordinates>139.686141,35.612337</coordinates>
       </Point>
     </Placemark>
   </Document>

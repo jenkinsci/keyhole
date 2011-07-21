@@ -75,5 +75,13 @@
         <coordinates>-2.583333,51.45</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Fred G</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>6.960132,50.941313</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

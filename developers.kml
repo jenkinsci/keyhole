@@ -59,5 +59,13 @@
         <coordinates>-122.437214,37.771419</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Erick Dovale</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-79.3840,43.6537</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

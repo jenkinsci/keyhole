@@ -19,5 +19,13 @@
         <coordinates>11.616180,48.137749</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Simon Wiest</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>48.459891,9.095688</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

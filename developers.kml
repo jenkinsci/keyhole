@@ -20,12 +20,19 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Christoph Kutzinski</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>10.005355,53.566108</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Simon Wiest</name>
       <Point>
         <extrude>1</extrude>
         <altitudeMode>relativeToGround</altitudeMode>
-        <coordinates>48.459891,9.095688</coordinates>
-      </Point>
+        <coordinates>9.095688,48.459891</coordinates>
     </Placemark>
   </Document>
 </kml>

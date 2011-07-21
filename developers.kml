@@ -67,5 +67,13 @@
         <coordinates>-79.3840,43.6537</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Bap</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-2.212372,51.366636</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

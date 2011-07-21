@@ -35,5 +35,13 @@
         <coordinates>9.095688,48.459891</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Seiji Sogabe</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>35.612337,139.686141</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

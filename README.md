@@ -13,7 +13,9 @@ Additions
 ---------
 
  * Locate your latitude and longitude, e.g. via
-   [Google Maps](http://maps.google.com)
+   [Google Maps](http://maps.google.com) -- NOTE: the coordinates
+   returned by Google Maps need to be reversed when entering them
+   in KML
  * Add a new Placemark XML segment for your name and location
  * Commit and push the updated KML document
  * Refresh the [map page](http://jenkinsci.github.com/keyhole/)

@@ -33,6 +33,7 @@
         <extrude>1</extrude>
         <altitudeMode>relativeToGround</altitudeMode>
         <coordinates>9.095688,48.459891</coordinates>
+      </Point>
     </Placemark>
   </Document>
 </kml>

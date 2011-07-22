@@ -91,5 +91,13 @@
         <coordinates>135.495819,34.676941</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>R. Tyler Croy</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-122.437214,37.771419</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

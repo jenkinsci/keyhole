@@ -83,5 +83,13 @@
         <coordinates>6.960132,50.941313</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Kiyotaka Oku</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>135.495819,34.676941</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

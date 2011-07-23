@@ -99,5 +99,13 @@
         <coordinates>-122.437214,37.771419</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Gregory Boissinot</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>2.423998,48.797658</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

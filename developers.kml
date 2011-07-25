@@ -107,5 +107,13 @@
         <coordinates>2.423998,48.797658</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Arnaud Héritier</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>2.91451,48.94930</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

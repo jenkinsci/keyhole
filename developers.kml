@@ -115,5 +115,13 @@
         <coordinates>2.91451,48.94930</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Stig Kleppe-Jørgensen</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>10.82032,59.85692</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

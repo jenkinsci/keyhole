@@ -123,5 +123,13 @@
         <coordinates>10.82032,59.85692</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Stefan Wolf</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>11.654771,48.186223</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

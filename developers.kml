@@ -139,5 +139,21 @@
         <coordinates>2.314299,48.605089</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Robert Sandell</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>13.224642,55.717463</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tomas Westling</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>13.224642,55.717463</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

@@ -155,5 +155,13 @@
         <coordinates>13.224610,55.717472</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Jesse Glick</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-71.121626,42.423013</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

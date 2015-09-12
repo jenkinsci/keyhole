@@ -163,5 +163,13 @@
         <coordinates>-71.121626,42.423013</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Oleg Nenashev</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>60.000765, 30.366502</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

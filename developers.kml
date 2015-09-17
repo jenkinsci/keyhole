@@ -171,5 +171,13 @@
         <coordinates>30.366502,60.000765</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Baptiste Mathus</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>1.443381,43.604422</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

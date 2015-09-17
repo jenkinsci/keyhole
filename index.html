@@ -1,11 +1,39 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <title>Jenkins Developers</title>
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 80%;
+      }
+    </style>
+  </head>
   <body>
     <h1>Jenkins Developers</h1>
-    <iframe width="1280" height="720" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?q=https:%2F%2Fraw.github.com%2Fjenkinsci%2Fkeyhole%2Fmaster%2Fdevelopers.kml%3Flcm%3D3&amp;ie=UTF8&amp;t=h&amp;ll=40.713956,-73.125&amp;spn=147.306813,89.648438&amp;z=2&amp;output=embed"/>
-    <br/>
-    <small>
-      <a href="http://maps.google.com/maps?q=https:%2F%2Fraw.github.com%2Fjenkinsci%2Fkeyhole%2Fmaster%2Fdevelopers.kml%3Flcm%3D3&amp;ie=UTF8&amp;t=h&amp;ll=40.713956,-73.125&amp;spn=147.306813,89.648438&amp;z=2&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a>
-    </small>
+    <div id="map"></div>
+    <script>
+
+function initMap() {
+  var map = new google.maps.Map(document.getElementById('map'), {
+    zoom: 1
+  });
+
+  var ctaLayer = new google.maps.KmlLayer({
+    url: 'https://raw.githubusercontent.com/jenkinsci/keyhole/master/developers.kml',
+    map: map
+  });
+}
+
+    </script>
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?signed_in=true&callback=initMap">
+    </script>
   </body>
 </html>

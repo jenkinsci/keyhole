@@ -187,5 +187,13 @@
         <coordinates>-105.097524,40.44538</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Daniel Beck</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>9.434771,48.708521</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

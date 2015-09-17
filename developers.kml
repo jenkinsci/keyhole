@@ -179,5 +179,13 @@
         <coordinates>1.443381,43.604422</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Mark Waite</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-105.097524,40.44538</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

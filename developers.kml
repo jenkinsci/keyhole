@@ -188,6 +188,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Michael Neale</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>150.5518037,-33.686405</coordinates>
+      </Point>
+    </Placemark>    
+    <Placemark>
       <name>Daniel Beck</name>
       <Point>
         <extrude>1</extrude>

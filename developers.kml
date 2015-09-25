@@ -202,8 +202,14 @@
         <altitudeMode>relativeToGround</altitudeMode>
         <coordinates>150.5518037,-33.686405</coordinates>
       </Point>
-    </Placemark>    
-    
-    
+    </Placemark>
+    <Placemark>
+      <name>Antonio Muñiz</name>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-5.984554,37.389923</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
